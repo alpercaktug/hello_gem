@@ -6,7 +6,7 @@ module HelloGem
   class Error < StandardError; end
   # Your code goes here...
   def self.greet(name)
-    puts "Hello, #{name}! test3!"
+    puts "Hello, #{name}! test4!"
   end
 
 end
